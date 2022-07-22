@@ -5,7 +5,7 @@ Welcome to my Github!
 <strong>About me:<br></strong>
 😄 Pronouns: he/him<br>
 📚 Computer Science & Mathematics Undergrad at the University of Victoria<br>
-🚀 Currently working @glentek as a Consultant<br>
+🚀 Currently working @glentel as a Consultant<br>
 🏢 Open to 2022 Full-time opportunities.<br>
 
 <strong>Skills<br></strong>
