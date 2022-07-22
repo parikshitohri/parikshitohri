@@ -8,7 +8,7 @@ Welcome to my Github!
 🚀 Currently working @glentek as a Consultant<br>
 🏢 Open to 2022 Full-time opportunities.<br>
 
-Skills<br>
+<strong>Skills<br></strong>
 PROGRAMMING & FRAMEWORKS - Java, Python, Javascript, React.js, Node.js<br>
 DEV TOOLS - Git, GitHub, VSCode, Databases
 
