@@ -9,6 +9,6 @@ Welcome to my Github!
 🏢 Open to 2022 Full-time opportunities.<br>
 
 <strong>Skills<br></strong>
-PROGRAMMING & FRAMEWORKS - Java, Python, Javascript, React.js<br>
-DEV TOOLS - Git, GitHub, VSCode, Databases
+DEV TOOLS - Git, GitHub, VSCode, Databases<br>
+PROGRAMMING & FRAMEWORKS - Java, Python, Javascript, React.js
 
