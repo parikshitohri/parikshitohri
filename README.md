@@ -6,7 +6,7 @@ Welcome to my Github!
 😄 Pronouns: he/him<br>
 📚 Computer Science & Mathematics Undergrad at the University of Victoria<br>
 🚀 Currently working @glentel as a Consultant<br>
-🏢 Open to 2022 Full-time opportunities.<br>
+🏢 Open to 2023 Full-time opportunities.<br>
 
 <strong>Skills<br></strong>
 DEV TOOLS - Git, GitHub, VSCode, Databases<br>
